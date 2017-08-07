@@ -1,3 +1,8 @@
+# Author Federico Corradi
+# federico.corradi@gmail.com
+# August 2017
+# create hdf5 dataset with multi label 
+
 import numpy as np
 import os
 import matplotlib.image as img
