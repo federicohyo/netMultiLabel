@@ -1,3 +1,7 @@
+# Author federico.corradi@gmail.com
+# August 2017
+# Simple regression with multiple label and sigmoid cross entropy loss
+
 import os, sys
 
 PROJECT_HOME = '/Users/federicocorradi/Documents/of_v0.9.8_osx_release/addons/ofxSiliconRetina/example_siliconretinaGuiAruco/bin/data/training/'
